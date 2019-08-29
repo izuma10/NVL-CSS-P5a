@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf_8">
+<body>
+<div> box{
+    margin:10px ;
+    border:16px;
+    padding:32px;
+}
+</body>
+</html>
